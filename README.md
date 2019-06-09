@@ -7,7 +7,8 @@ This script will let you setup your own secure VPN server in just a few seconds.
 
 You can also check out wireguard-install, a simple installer for a simpler, safer, faster and more modern VPN protocol.
 
-_USAGE_
+-USAGE-
+
 First, get the script and make it executable :
 
 curl -O https://raw.githubusercontent.com/Angristan/openvpn-install/master/openvpn-install.sh
