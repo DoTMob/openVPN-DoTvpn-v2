@@ -301,12 +301,10 @@ So both provide an additional layer of security and mitigate DoS attacks. They a
 
 The script supports both and uses `tls-crypt` by default.
 
-##  thanks to
-
 
 
 ## Credits & Licence
 
-Many thanks to the [contributors](https://github.com/Angristan/OpenVPN-install/graphs/contributors) and Nyr's original work.
+Many thanks to the contributors and Nyr's original work.
 
 This project is under the [MIT Licence](https://raw.githubusercontent.com/Angristan/openvpn-install/master/LICENSE)
