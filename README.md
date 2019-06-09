@@ -1,5 +1,5 @@
 # openVPN-DoTvpn-v2
-# openvpn-install
+
 
 [![Travis CI](https://travis-ci.com/angristan/openvpn-install.svg?branch=master)](https://travis-ci.com/angristan/openvpn-install)
 
@@ -301,9 +301,9 @@ So both provide an additional layer of security and mitigate DoS attacks. They a
 
 The script supports both and uses `tls-crypt` by default.
 
-## Say thanks
+##  thanks to
 
-You can [say thanks](https://saythanks.io/to/Angristan) if you want!
+
 
 ## Credits & Licence
 
